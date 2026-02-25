@@ -10,5 +10,7 @@ Topics to cover
 5. Culture and People
 6. Good Practices
 
+[more information](https://swisspost.atlassian.com)
+
 How to get started?
 
