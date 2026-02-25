@@ -1,0 +1,3 @@
+# Vision and Why
+
+It all starts with a vision...
